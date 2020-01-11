@@ -1,0 +1,11 @@
+C:\Users\ektiv\source\repos\InterviewChallenges\obj\Debug\netcoreapp3.0\InterviewChallenges.csprojAssemblyReference.cache
+C:\Users\ektiv\source\repos\InterviewChallenges\obj\Debug\netcoreapp3.0\InterviewChallenges.AssemblyInfoInputs.cache
+C:\Users\ektiv\source\repos\InterviewChallenges\obj\Debug\netcoreapp3.0\InterviewChallenges.AssemblyInfo.cs
+C:\Users\ektiv\source\repos\InterviewChallenges\bin\Debug\netcoreapp3.0\InterviewChallenges.exe
+C:\Users\ektiv\source\repos\InterviewChallenges\bin\Debug\netcoreapp3.0\InterviewChallenges.deps.json
+C:\Users\ektiv\source\repos\InterviewChallenges\bin\Debug\netcoreapp3.0\InterviewChallenges.runtimeconfig.json
+C:\Users\ektiv\source\repos\InterviewChallenges\bin\Debug\netcoreapp3.0\InterviewChallenges.runtimeconfig.dev.json
+C:\Users\ektiv\source\repos\InterviewChallenges\bin\Debug\netcoreapp3.0\InterviewChallenges.dll
+C:\Users\ektiv\source\repos\InterviewChallenges\bin\Debug\netcoreapp3.0\InterviewChallenges.pdb
+C:\Users\ektiv\source\repos\InterviewChallenges\obj\Debug\netcoreapp3.0\InterviewChallenges.dll
+C:\Users\ektiv\source\repos\InterviewChallenges\obj\Debug\netcoreapp3.0\InterviewChallenges.pdb

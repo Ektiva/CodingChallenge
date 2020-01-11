@@ -1,0 +1,10 @@
+C:\Users\ektiv\source\repos\InterviewChallenges\bin\Debug\netcoreapp3.0\CodingChallenges.exe
+C:\Users\ektiv\source\repos\InterviewChallenges\bin\Debug\netcoreapp3.0\CodingChallenges.deps.json
+C:\Users\ektiv\source\repos\InterviewChallenges\bin\Debug\netcoreapp3.0\CodingChallenges.runtimeconfig.json
+C:\Users\ektiv\source\repos\InterviewChallenges\bin\Debug\netcoreapp3.0\CodingChallenges.runtimeconfig.dev.json
+C:\Users\ektiv\source\repos\InterviewChallenges\bin\Debug\netcoreapp3.0\CodingChallenges.dll
+C:\Users\ektiv\source\repos\InterviewChallenges\bin\Debug\netcoreapp3.0\CodingChallenges.pdb
+C:\Users\ektiv\source\repos\InterviewChallenges\obj\Debug\netcoreapp3.0\CodingChallenges.AssemblyInfoInputs.cache
+C:\Users\ektiv\source\repos\InterviewChallenges\obj\Debug\netcoreapp3.0\CodingChallenges.AssemblyInfo.cs
+C:\Users\ektiv\source\repos\InterviewChallenges\obj\Debug\netcoreapp3.0\CodingChallenges.dll
+C:\Users\ektiv\source\repos\InterviewChallenges\obj\Debug\netcoreapp3.0\CodingChallenges.pdb
